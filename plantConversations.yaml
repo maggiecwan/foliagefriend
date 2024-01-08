@@ -1,0 +1,33 @@
+conversations:
+- - What are the climate conditions like?
+  - I live in a dry climate
+  - I live in a humid climate
+  - I live in a climate with a lot of rain
+  - I have air conditioning
+- - Do you live in a rural or urban area?
+  - I live in a rural area
+  - I live in an urban area
+- - How much space do you have for your plant?
+  - Less than 10 square feet
+  - Between 10 and 25 square feet
+  - Between 25 and 50 square feet
+  - More than 50 square feet
+- - Do you have any pets or small children?
+  - Yes, I have pets
+  - Yes, I have small children
+  - No, I don't have any pets or small children
+- - How much sunlight do you have?
+  - Full shade
+  - Part shade
+  - Sun-part shade
+  - Full sun
+- - How much effort do you expect to put in?
+  - Less than 1 hour per week
+  - 1-3 hours per week
+  - 3-5 hours per week
+  - More than 5 hours per week
+- - What is the purpose of this plant?
+  - I want an edible plant (herbs and fruits)
+  - I want a plant for aesthetics
+  - I want a plant for foliage
+  - I want an exotic plant
